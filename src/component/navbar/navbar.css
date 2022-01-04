@@ -1,0 +1,42 @@
+.topnavbar {
+    background: #000000;
+    height: 53px;
+}
+
+.navbar-icon {
+    color: white;
+    padding: 4px;
+    display: flex;
+    justify-content: end;
+    padding-right: 1rem;
+}
+
+.navbar-icon i {
+    padding-left: 14px;
+    margin-top: 15px;
+    color:white;
+    transition: all .3s;
+}
+
+img.logo:hover {
+    transform: scale(0.8);
+}
+
+.slider {
+    width: 100%;
+    height: 500px;
+}
+
+img.logo {
+    width: 32px;
+    font-size: 7px !important;
+    margin-left: 27px;
+    margin-top: 3px;
+    transition: all .3s;
+}
+
+
+.navbar-icon a:hover i {
+    color: #233ac7;
+    transform: translate(0px, -8px);
+}

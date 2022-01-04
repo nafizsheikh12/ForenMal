@@ -1,0 +1,30 @@
+.App{
+    overflow:hidden;
+}
+
+
+.footer {
+    background: #000000;
+    color: white;
+    /* padding: 0.5rem; */
+    padding: 1px 0px;
+}
+
+
+
+.footer ul {
+    display: flex;
+    align-items: center;
+    justify-content: initial;
+}
+
+.footer ul li {
+    list-style: none;
+    margin-right: 26px;
+    color: #e6e6e5f2;
+    cursor: pointer;
+    margin-top: 25px;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: sans-serif;
+}

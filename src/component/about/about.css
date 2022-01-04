@@ -1,0 +1,47 @@
+.slider {
+    width: 100%;
+    height: 100% !important;
+    overflow: hidden;
+}
+
+
+
+.about {
+    color: white;
+    background: #000000;
+    padding-top: 71px;
+    padding-bottom: 3rem;
+}
+
+.about p {
+    font-size: 16px;
+}
+
+.col-lg-8.des p {
+    font-size: 22px;
+    line-height: 46px;
+    margin-bottom: 24px;
+}
+
+.col-lg-8.des h6 {
+    font-size: 14px;
+    font-family: cursive;
+}
+
+.role {
+    border-bottom: 1px solid white;
+    margin-bottom: 3.5rem;
+}
+
+.role h3 {
+    font-size: 50px;
+    display: inline;
+    font-family: fangsong;
+}
+
+.role p {
+    display: inline;
+    padding-left: 23px;
+    margin-top: 25px !important;
+    font-family: fangsong;
+}
